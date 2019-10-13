@@ -1,0 +1,7 @@
+Launch minecraft 1.12.2 from the MC launcher
+Launch Forge installer + select "CLIENT"
+Install
+Launch the new profile on the Launcher
+go to .Minecraft Folder (type %appdata% in Win+R Menu)
+Drag all the mods into the mods folder (create if not there)
+Done
